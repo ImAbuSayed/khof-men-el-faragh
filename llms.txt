@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في عتمة الليل
+> قلبي ينادي بلا أي دليل
+> نار الشوق تحرقني كالفتيل
+> أنتِ حياتي والنبض الأصيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
